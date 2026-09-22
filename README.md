@@ -2,8 +2,6 @@
 
 Machine learning project predicting NCAA March Madness tournament outcomes.
 
-Delete what's there and paste this:
-
 # 🏀 March Madness Prediction | Machine Learning Datathon
 
 ## 📌 Project Overview
